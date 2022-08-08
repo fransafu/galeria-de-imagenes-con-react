@@ -1,0 +1,16 @@
+.card{
+  width: 50%;
+  border-radius: 10px;
+  background-color: linear-gradient(#560606, #0b1de2);
+  display: center; 
+  margin: 300px;
+  box-shadow: rgba(0, 0, 0, 0.295) 0px 0px 10px ;
+}
+.card-logo{
+  padding: 10px;
+}
+.card-content{
+
+  text-align:center;
+  font-family: 'Tillana', cursive;
+}
